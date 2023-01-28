@@ -9,4 +9,3 @@
 	* 2/19 수현 7-8장
 	* 이후 발표 내용은 한 바퀴 돌고 논의
 	
-<img width="348" alt="image" src="https://user-images.githubusercontent.com/48385288/215268558-6c8307b5-f295-4a16-998e-566d6ba5afa4.png">
